@@ -3,16 +3,16 @@
 This collection of Python scripts provides various security checks for Linux systems. Each script serves a specific purpose, from scanning open ports to checking for default credentials and analyzing system configurations for potential security risks.
 Scripts Overview
 
-1. ** Open Ports Check: Scans for open network ports that could be entry points for unauthorized access.
-2. ** Default Credentials Check: Tests services like SSH, MySQL, and PostgreSQL for default or well-known credentials.
-3. ** Firewall Status Check: Checks the status of common firewalls like ufw and iptables.
-4. ** ClamAV Antivirus Check: Verifies the installation and status of ClamAV antivirus software.
-5. ** User Account Review: Examines user accounts for weak password policies and unnecessary administrative privileges.
-6. ** SSH Configuration Analysis: Analyzes the SSH configuration for potential misconfigurations.
-7. ** Log Analysis: Performs basic analysis of system logs for signs of suspicious activities.
-8. ** Security Patches Check: Checks for the installation of critical security patches.
-9. ** Package Analysis: Check for out of date packages.
-10. ** Service Analysis Check for unneeded services.
+1. **Open Ports Check: Scans for open network ports that could be entry points for unauthorized access.**
+2. **Default Credentials Check: Tests services like SSH, MySQL, and PostgreSQL for default or well-known credentials.**
+3. **Firewall Status Check: Checks the status of common firewalls like ufw and iptables.**
+4. **ClamAV Antivirus Check: Verifies the installation and status of ClamAV antivirus software.**
+5. **User Account Review: Examines user accounts for weak password policies and unnecessary administrative privileges.**
+6. **SSH Configuration Analysis: Analyzes the SSH configuration for potential misconfigurations.**
+7. **Log Analysis: Performs basic analysis of system logs for signs of suspicious activities.**
+8. **Security Patches Check: Checks for the installation of critical security patches.**
+9. **Package Analysis: Check for out of date packages.**
+10. **Service Analysis Check for unneeded services.**
 
 ## Prerequisites
 
