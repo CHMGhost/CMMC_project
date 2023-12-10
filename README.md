@@ -26,11 +26,11 @@ sudo apt-get install libpq-dev
 - Python libraries as needed (e.g., paramiko, psycopg2, mysql-connector-python, nmap). Install these using pip:
 
 ```bash
-pip install paramiko psycopg2 mysql-connector-python python-nmap
+sudo pip install paramiko psycopg2 mysql-connector-python python-nmap
 ```
 You can also use the requirements.txt to install the python libraries
 ```bash
-pip install -r requirements.txt
+sudo pip install -r requirements.txt
 ```
 
 ## Installation
